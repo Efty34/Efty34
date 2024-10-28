@@ -8,7 +8,10 @@
 - 💬 Ask me about JS, Laravel, Android-Web Dev  
   
 
-- ⚡ Fun fact: I like minimal wallpaper  
+- ⚡ Fun fact: I like minimal wallpaper
+  
+  
+- 🤖   Portfolio: (https://efty34.github.io/Portfolio34/)
   
 
 <br/>  
