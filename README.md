@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I like minimal wallpaper
   
   
-- 🤖   Portfolio: (https://efty34.github.io/Portfolio34/)
+- 🤖  Portfolio: [Efty34](https://efty34.github.io/Portfolio34/)
   
 
 <br/>  
