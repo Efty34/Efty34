@@ -36,18 +36,16 @@
 </div>  
 
 
-### Framework  
-<div align="left">  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-</div>
-
-
 ### Backend Development  
 <div align="left">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>  
 
+### Framework  
+<div align="left">  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+</div>
 
 
 ### Mobile Development  
@@ -77,8 +75,8 @@
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Efty34&show_icons=true&locale=en&hide_border=true&theme=gotham" alt="Efty34" /></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Efty34&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Efty34" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Efty34&stroke=ffffff&background=092635&ring=76ABAE&fire=76ABAE&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Efty34" /></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efty34&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Efty34" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efty34&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=092635&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Efty34" /></p>
 
 
