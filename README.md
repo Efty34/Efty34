@@ -1,4 +1,4 @@
-![Profile Image]((https://i.pinimg.com/originals/60/fe/9f/60fe9f6abc5750938b5bb0464210ab58.gif))
+![Profile Image](https://i.pinimg.com/originals/60/fe/9f/60fe9f6abc5750938b5bb0464210ab58.gif)
 
 # Efty Hasan
 
