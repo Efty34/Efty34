@@ -1,10 +1,12 @@
+# Greetings!
+
 ![Profile Image](https://i.pinimg.com/originals/60/fe/9f/60fe9f6abc5750938b5bb0464210ab58.gif)
 
 # Efty Hasan
 
 **Student**
 
-A driven developer crafting innovative solutions with a focus on problem-solving and continuous growth.
+A driven coder building slick solutions with a knack for problem-solving and leveling up skills.
 
 ---
 
@@ -21,4 +23,4 @@ JavaScript, Laravel, Android, Web Development
 [Efty34](https://efty34.github.io/Portfolio34/)
 
 **Contact**  
-[Email](mailto:efty17.hasan@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
