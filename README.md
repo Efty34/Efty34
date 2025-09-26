@@ -1,17 +1,4 @@
-<h1 align="center">Side character.</h1>
-<h3 align="center">🔭 An aspiring engineer.</h3>
-
-![Profile Image](https://i.pinimg.com/originals/60/fe/9f/60fe9f6abc5750938b5bb0464210ab58.gif)
-
-- 🌱 I’m currently learning **Image Processing, Computer Vision**
-
-- 👨‍💻 All of my projects are available at [will build a portfolio later...](will build a portfolio later...)
-
-- 💬 Ask me about **Web Development, App Development, Generative AI**
-
-- 📫 How to reach me **efty17.hasan@gmail.com**
-
-- ⚡ Fun fact **I enjoy mixing creativity with logic**
+<h3 align="center">I’m a student and developer who enjoys learning, experimenting, and building.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
