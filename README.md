@@ -1,4 +1,4 @@
-<h1 align="center">Call me Efty, your friendly lowkey side character.</h1>
+<h1 align="center">Side character.</h1>
 <h3 align="center">🔭 An aspiring engineer.</h3>
 
 ![Profile Image](https://i.pinimg.com/originals/60/fe/9f/60fe9f6abc5750938b5bb0464210ab58.gif)
